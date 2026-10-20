@@ -97,6 +97,7 @@
 搜索结构参考了开源项目 [icarried/Aiensitan_Launcher](https://github.com/icarried/Aiensitan_Launcher)，
 评估函数基于 Zweistein 的距离分布方法。
 界面、规则引擎、时间管理和棋谱导出为独立实现。
+欢迎大家给出意见3577595325@qq.com
 
 ---
 
