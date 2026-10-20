@@ -1,3 +1,5 @@
+> **看源码 / 参与改进** → [signal-wu/EinStein-Chess-Source](https://github.com/signal-wu/EinStein-Chess-Source)
+
 # 爱恩斯坦棋 · 对局控制台
 
 爱恩斯坦棋（EinStein würfelt nicht!，EWN）的**对局控制台**，为「人工转述对弈」的比赛形式设计。
