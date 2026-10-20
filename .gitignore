@@ -1,0 +1,18 @@
+# 大文件，绝不提交
+*.bin
+*.zip
+WinrateStorage*
+
+# 构建产物
+build/
+*.o
+*.exe
+*.dll
+
+# 编辑器
+.vscode/
+*.code-workspace
+
+# 系统
+Thumbs.db
+Desktop.ini
